@@ -1,4 +1,4 @@
-# AllBooks
+# AllBooks  Otavio m.m .s
 #Boas vindas a Api do allbooks
 
 
@@ -14,7 +14,9 @@ Essa é ma API Rest mockada, utilizando json-server e JWT.
 ```bash
 $ npm install
 $ npm run start-auth
+npm testes
 ```
+
 ## 🛠️ Como se registrar?
 
 Você pode fazer isso efetuando uma requisição post para:
